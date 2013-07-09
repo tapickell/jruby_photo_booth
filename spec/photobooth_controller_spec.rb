@@ -1,0 +1,2 @@
+require 'photobooth_controller'
+
